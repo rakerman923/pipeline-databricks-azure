@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ##Conferindo se os dados foram montados e se temos acessoa pasta inbound  
+# MAGIC ##Conferindo se os dados foram montados e se temos acessoa pasta inbound <
 
 # COMMAND ----------
 
