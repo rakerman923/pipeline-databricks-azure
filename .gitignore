@@ -1,6 +1,5 @@
 notebooks/montando_acesso_ao_dados.scala  
 notebooks/inbound_to_bronze.scala
 notebooks/bronze_to_silver.scala
-notebooks/inbound_to_bronze_Python.py
-notebooks/bronze_to_silver_Python.py
+notebooks/*.py
 
